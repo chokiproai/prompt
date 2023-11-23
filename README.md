@@ -1,5 +1,7 @@
 # Lời nhắc
 
+### ⭐ [README_EN.md](https://github.com/chokiproai/prompt/blob/main/README_EN.md)
+
 ## Hoạt động như một thiết bị đầu cuối Linux
 Đóng góp bởi: [@f](https://github.com/f)
 Tham khảo: https://www.engraved.blog/building-a-virtual-machine-inside/
